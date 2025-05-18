@@ -310,7 +310,7 @@ career_recommendations = {
                 "desc": "나라를 지키기 위해 훈련하고 작전을 수행해요.",
                 "prep": "1. 체력을 기르기 위해 꾸준히 운동해보세요.\n2. 규칙적인 생활 습관을 들여보세요.\n3. 리더십 활동을 통해 팀워크를 배워보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/111200.jpg",
-                "video": "https://www.youtube.com/watch?v=9xHQGd1klsI",  # 예시: 군인 관련 영상
+                "video": "https://www.youtube.com/watch?v=nyvYAJHX5cE",  # 예시: 군인 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=407",
                 "strength": "책임감 있고 규칙을 잘 지키는 성격이에요.",
                 "improve": "가끔은 유연하게 생각하는 연습도 필요해요."
@@ -320,7 +320,7 @@ career_recommendations = {
                 "desc": "국가와 사회를 위해 행정 업무를 해요.",
                 "prep": "1. 사회나 역사 공부에 흥미를 가져보세요.\n2. 뉴스와 신문을 꾸준히 읽어보세요.\n3. 행정 체험이나 모의 토론 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/111100.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=116353&listT=2",  # 예시: 공무원 관련 영상
+                "video": "https://www.youtube.com/watch?v=TsBOrEX2VN0",  # 예시: 공무원 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=362",
                 "strength": "체계적이고 조직적인 성격에 잘 맞아요.",
                 "improve": "새로운 변화에 유연하게 대응하는 훈련이 필요해요."
