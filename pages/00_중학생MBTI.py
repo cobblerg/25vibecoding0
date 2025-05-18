@@ -135,7 +135,7 @@ career_recommendations = {
                 "desc": "꽃을 이용해 아름다운 장식을 만들어요.",
                 "prep": "1. 꽃 이름과 특징을 외워보세요.\n2. 색깔과 모양을 조화롭게 배치해보세요.\n3. 꽃집이나 화훼 농장 체험을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132901.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=10694&listT=1",  # 예시: 플로리스트 관련 영상
+                "video": "https://www.youtube.com/watch?v=wJGaLMs0e_g",  # 예시: 플로리스트 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=316",
                 "strength": "아름다움을 느끼고 표현하는 능력이 뛰어나요.",
                 "improve": "계획을 세우고 마감에 맞추는 연습이 필요해요."
@@ -145,7 +145,7 @@ career_recommendations = {
                 "desc": "그림, 글자, 사진을 조합해 멋진 이미지를 만들어요.",
                 "prep": "1. 다양한 디자인을 관찰하고 따라 그려보세요.\n2. 색과 형태에 대한 감각을 키워보세요.\n3. 무료 디자인 프로그램을 활용해 포스터를 만들어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132905.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105728&listT=1",  # 예시: 그래픽 디자이너 관련 영상
+                "video": "https://www.youtube.com/watch?v=RQB9mU67OAc",  # 예시: 그래픽 디자이너 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=458",
                 "strength": "감성적이고 예술적인 감각이 풍부한 성격이에요.",
                 "improve": "자신의 작품을 설명하는 연습이 필요해요."
