@@ -11,7 +11,7 @@ career_recommendations = {
                 "prep": "1. 수학 교과서를 꼼꼼히 공부해요.\n2. 용돈기입장을 써보며 계산 습관을 길러요.\n3. 가상의 가게를 만들고 수입과 지출을 정리해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/120200.jpg",
                 "video": "https://www.youtube.com/watch?v=Shz699vjDZE",  # 예시: 회계사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=120200",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=206",
                 "strength": "꼼꼼하고 책임감이 강한 성격에 잘 맞아요.",
                 "improve": "조금 더 유연하게 생각하는 연습을 해보면 좋아요."
             },
@@ -21,7 +21,7 @@ career_recommendations = {
                 "prep": "1. 체력 단련을 위해 운동을 꾸준히 해요.\n2. 뉴스나 책을 통해 법과 질서에 대해 배워요.\n3. 학교나 지역의 질서 유지 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112700.jpg",
                 "video": "https://www.youtube.com/watch?v=j9jMvYYS79E",  # 예시: 경찰관 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112700",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=359",
                 "strength": "정직하고 규칙을 잘 지키는 성격에 잘 맞아요.",
                 "improve": "다른 사람의 입장에서 생각하는 연습을 해보세요."
             }
@@ -36,7 +36,7 @@ career_recommendations = {
                 "prep": "1. 생물 과학 과목을 재미있게 공부해요.\n2. 친구나 가족을 도와주는 경험을 쌓아보세요.\n3. 응급처치에 대해 간단히 알아보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112100.jpg",
                 "video": "https://www.youtube.com/watch?v=C-fFk9vPz-4",  # 예시: 간호사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112100",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=354",
                 "strength": "배려심이 많고 섬세한 성격에 잘 맞아요.",
                 "improve": "긴장 상황에서 침착하게 대응하는 연습이 필요해요."
             },
@@ -46,7 +46,7 @@ career_recommendations = {
                 "prep": "1. 발표와 글쓰기 능력을 키워요.\n2. 어린이와 잘 어울리는 방법을 익혀요.\n3. 책을 읽고 내용을 쉽게 설명하는 연습을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132100.jpg",
                 "video": "https://www.youtube.com/watch?v=Pj-qfFto7pQ",  # 예시: 초등학교 교사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=132100",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=410",
                 "strength": "성실하고 책임감 있는 성격에 잘 맞아요.",
                 "improve": "자신의 생각을 명확하게 표현하는 연습이 필요해요."
             }
@@ -56,12 +56,12 @@ career_recommendations = {
         "summary": "조용하지만 마음이 따뜻하고 깊어요.",
         "jobs": [
             {
-                "name": "상담사",
+                "name": "상담전문가",
                 "desc": "사람들의 고민을 듣고 도와주는 일을 해요.",
                 "prep": "1. 친구 이야기를 잘 들어주는 습관을 가져요.\n2. 감정을 글로 정리해보며 표현해보세요.\n3. 사람의 심리에 대한 책을 읽어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112900.jpg",
                 "video": "https://www.youtube.com/watch?v=7rF8l7r-Lis",  # 예시: 상담사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112900",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=380",
                 "strength": "남을 깊이 이해하려는 마음이 있어서 잘 어울려요.",
                 "improve": "처음 보는 사람과도 자연스럽게 대화하는 연습이 필요해요."
             },
@@ -71,7 +71,7 @@ career_recommendations = {
                 "prep": "1. 매일 일기를 쓰며 생각을 정리해요.\n2. 다양한 책을 읽고 감상을 적어보세요.\n3. 글쓰기 대회나 블로그에 글을 써보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112300.jpg",
                 "video": "https://www.youtube.com/watch?v=B9nE5umt9qM",  # 예시: 작가 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112300",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=260",
                 "strength": "상상력과 공감 능력이 뛰어나서 글을 잘 쓸 수 있어요.",
                 "improve": "비판적인 피드백을 잘 받아들이는 연습이 필요해요."
             }
@@ -86,7 +86,7 @@ career_recommendations = {
                 "prep": "1. 과학 실험 키트를 활용해 관찰을 해보세요.\n2. 탐구 노트를 만들어 궁금한 것을 정리해보세요.\n3. 과학 다큐멘터리나 책을 자주 접해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121300.jpg",
                 "video": "https://www.youtube.com/watch?v=xXk9p554R9o",  # 예시: 과학자 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=121300",
+                "link": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2111&jobSeq=28&txtKeyword=%EC%83%9D%EB%AA%85%EA%B3%B5%ED%95%99%EC%9E%90&txtNumber=&pageIndex=1",
                 "strength": "혼자 집중해서 탐구하는 데 강한 성격이에요.",
                 "improve": "다른 사람과 아이디어를 나누는 연습이 필요해요."
             },
@@ -96,7 +96,7 @@ career_recommendations = {
                 "prep": "1. 엔트리나 스크래치 같은 쉬운 코딩을 시작해보세요.\n2. 퍼즐 게임이나 논리 문제를 자주 풀어보세요.\n3. 간단한 앱이나 게임 만들기를 도전해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/133101.jpg",
                 "video": "https://www.youtube.com/watch?v=vLq3-qjJVRQ",  # 예시: 프로그래머 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=133101",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=834",
                 "strength": "논리적이고 분석적인 사고에 강한 성격이에요.",
                 "improve": "팀과 함께 일하는 연습을 조금씩 해보세요."
             }
@@ -111,7 +111,7 @@ career_recommendations = {
                 "prep": "1. 자전거나 장난감을 분해하고 조립해보세요.\n2. 공구 사용법을 안전하게 배워보세요.\n3. 기술 관련 영상이나 DIY 키트를 활용해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/133204.jpg",
                 "video": "https://www.youtube.com/watch?v=4MpiNxxjM3w",  # 예시: 기계 정비사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=133204",
+                "link": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=7531&jobSeq=6",
                 "strength": "실용적이고 조용히 문제를 해결하는 데 능숙해요.",
                 "improve": "여럿이 함께 일할 때 의사소통하는 연습이 필요해요."
             },
@@ -121,7 +121,7 @@ career_recommendations = {
                 "prep": "1. 체력을 키우고 응급처치법을 배워보세요.\n2. 구조 활동에 대한 책이나 사례를 읽어보세요.\n3. 재난안전 캠프나 소방서 체험에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112500.jpg",
                 "video": "https://www.youtube.com/watch?v=y5jLg_e-4Fw",  # 예시: 응급 구조사 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112500",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=397",
                 "strength": "침착하고 순간 판단이 빠른 성격에 잘 맞아요.",
                 "improve": "감정을 드러내는 표현을 조금 더 해보는 것도 좋아요."
             }
@@ -136,7 +136,7 @@ career_recommendations = {
                 "prep": "1. 꽃 이름과 특징을 외워보세요.\n2. 색깔과 모양을 조화롭게 배치해보세요.\n3. 꽃집이나 화훼 농장 체험을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132901.jpg",
                 "video": "https://www.youtube.com/watch?v=5rD-i5jK-wE",  # 예시: 플로리스트 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=132901",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=316",
                 "strength": "아름다움을 느끼고 표현하는 능력이 뛰어나요.",
                 "improve": "계획을 세우고 마감에 맞추는 연습이 필요해요."
             },
@@ -146,7 +146,7 @@ career_recommendations = {
                 "prep": "1. 다양한 디자인을 관찰하고 따라 그려보세요.\n2. 색과 형태에 대한 감각을 키워보세요.\n3. 무료 디자인 프로그램을 활용해 포스터를 만들어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132905.jpg",
                 "video": "https://www.youtube.com/watch?v=u2X-bFVSZqI",  # 예시: 그래픽 디자이너 관련 영상
-                "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=132905",
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=458",
                 "strength": "감성적이고 예술적인 감각이 풍부한 성격이에요.",
                 "improve": "자신의 작품을 설명하는 연습이 필요해요."
             }
