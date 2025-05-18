@@ -335,7 +335,7 @@ career_recommendations = {
                 "desc": "어린이들에게 지식과 인성을 가르쳐요.",
                 "prep": "1. 책을 많이 읽고 독서록을 써보세요.\n2. 친구를 도와주거나 발표 활동을 해보세요.\n3. 봉사활동을 통해 배려심을 길러보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132100.jpg",
-                "video": "https://www.youtube.com/shorts/AhzfFKDcabY",  # 예시: 초등학교 교사 관련 영상
+                "video": "https://www.youtube.com/watch?v=fI6XiL1GyoY",  # 예시: 초등학교 교사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=410",
                 "strength": "다른 사람을 잘 도와주고 협력하는 데 능해요.",
                 "improve": "자기 주도적으로 문제를 해결하는 연습도 필요해요."
@@ -345,7 +345,7 @@ career_recommendations = {
                 "desc": "환자의 건강을 돌보는 일을 해요.",
                 "prep": "1. 생물이나 건강 관련 책을 읽어보세요.\n2. 응급처치법을 배워보고 실습해보세요.\n3. 병원 체험 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112100.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105861&listT=2",  # 예시: 간호사 관련 영상
+                "video": "https://www.youtube.com/watch?v=6pJWvkk3C4o&t=1s",  # 예시: 간호사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=354",
                 "strength": "섬세하고 배려심 많은 성격에 잘 맞아요.",
                 "improve": "긴급 상황에서 침착하게 대처하는 능력을 길러야 해요."
