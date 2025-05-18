@@ -210,8 +210,8 @@ career_recommendations = {
                 "desc": "화재나 위험한 상황에서 사람들을 구조해요.",
                 "prep": "1. 체력을 키우기 위해 매일 운동을 해보세요.\n2. 소방 관련 체험관을 방문해보세요.\n3. 응급처치법과 안전수칙을 배워보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112500.jpg",
-                "video": "https://www.youtube.com/shorts/vfHievV0_J8",  # 예시: 소방관 관련 영상
-                "link": "https://www.career.go.kr/cloud/w/job/view?seq=10032",
+                "video": "https://www.youtube.com/watch?v=WwQ0xjh-EGY",  # 예시: 소방관 관련 영상
+                "link": "https://www.career.go.kr/cloud/w/job/view?seq=385",
                 "strength": "위기 상황에 빠르게 대처하고 용감해요.",
                 "improve": "계획을 세우고 차분히 실행하는 습관을 들여보세요."
             },
