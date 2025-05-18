@@ -245,7 +245,7 @@ career_recommendations = {
                 "desc": "TV나 라디오에서 뉴스를 전하거나 프로그램을 진행해요.",
                 "prep": "1. 또박또박 말하는 연습을 매일 해보세요.\n2. 친구들과 인터뷰 놀이를 해보세요.\n3. 뉴스나 방송을 보며 따라 말해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/133401.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109049&listT=2",  # 예시: 아나운서 관련 영상
+                "video": "https://www.youtube.com/watch?v=PV_7rCJCyTk",  # 예시: 아나운서 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=271",
                 "strength": "밝은 에너지와 사교성이 뛰어난 성격에 잘 맞아요.",
                 "improve": "전문적인 정보를 정확하게 전달하는 훈련이 필요해요."
