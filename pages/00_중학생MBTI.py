@@ -170,7 +170,7 @@ career_recommendations = {
                 "desc": "사람의 마음을 이해하고 도와주는 일을 해요.",
                 "prep": "1. 친구나 가족 이야기를 공감하며 들어보세요.\n2. 감정 표현 연습을 일기로 해보세요.\n3. 사람의 마음에 관한 책을 읽어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112900.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109027&listT=1",  # 예시: 심리상담사 관련 영상
+                "video": "https://www.youtube.com/watch?v=xWNj4lykY5w&t=33s",  # 예시: 심리상담사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=380",
                 "strength": "다른 사람의 감정을 잘 이해할 수 있어요.",
                 "improve": "때로는 논리적으로 상황을 판단하는 연습도 필요해요."
