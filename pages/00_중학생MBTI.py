@@ -95,7 +95,7 @@ career_recommendations = {
                 "desc": "컴퓨터 프로그램을 만들고 코드를 작성해요.",
                 "prep": "1. 엔트리나 스크래치 같은 쉬운 코딩을 시작해보세요.\n2. 퍼즐 게임이나 논리 문제를 자주 풀어보세요.\n3. 간단한 앱이나 게임 만들기를 도전해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/133101.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105869&listT=1",  # 예시: 프로그래머 관련 영상
+                "video": "https://www.youtube.com/watch?v=9AJTqqAx2y8",  # 예시: 프로그래머 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=834",
                 "strength": "논리적이고 분석적인 사고에 강한 성격이에요.",
                 "improve": "팀과 함께 일하는 연습을 조금씩 해보세요."
