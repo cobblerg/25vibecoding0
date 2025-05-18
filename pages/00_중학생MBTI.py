@@ -10,7 +10,7 @@ career_recommendations = {
                 "desc": "숫자를 정확하게 계산하는 일을 해요.",
                 "prep": "1. 수학 교과서를 꼼꼼히 공부해요.\n2. 용돈기입장을 써보며 계산 습관을 길러요.\n3. 가상의 가게를 만들고 수입과 지출을 정리해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/120200.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105825&listT=1",  # 예시: 회계사 관련 영상
+                "video": "https://www.youtube.com/watch?v=-EoiKv1bKEs",  # 예시: 회계사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=206",
                 "strength": "꼼꼼하고 책임감이 강한 성격에 잘 맞아요.",
                 "improve": "조금 더 유연하게 생각하는 연습을 해보면 좋아요."
@@ -20,7 +20,7 @@ career_recommendations = {
                 "desc": "사람들의 안전을 지키는 일을 해요.",
                 "prep": "1. 체력 단련을 위해 운동을 꾸준히 해요.\n2. 뉴스나 책을 통해 법과 질서에 대해 배워요.\n3. 학교나 지역의 질서 유지 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112700.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109034&listT=1",  # 예시: 경찰관 관련 영상
+                "video": "https://www.youtube.com/watch?v=gdYn3iQclZY",  # 예시: 경찰관 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=359",
                 "strength": "정직하고 규칙을 잘 지키는 성격에 잘 맞아요.",
                 "improve": "다른 사람의 입장에서 생각하는 연습을 해보세요."
