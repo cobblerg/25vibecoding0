@@ -85,7 +85,7 @@ career_recommendations = {
                 "desc": "새로운 이론을 연구하고 실험을 해요.",
                 "prep": "1. 과학 실험 키트를 활용해 관찰을 해보세요.\n2. 탐구 노트를 만들어 궁금한 것을 정리해보세요.\n3. 과학 다큐멘터리나 책을 자주 접해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121300.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=117903&listT=1",  # 예시: 과학자 관련 영상
+                "video": "https://www.youtube.com/watch?v=-abQO2k0kks",  # 예시: 과학자 관련 영상
                 "link": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2111&jobSeq=28&txtKeyword=%EC%83%9D%EB%AA%85%EA%B3%B5%ED%95%99%EC%9E%90&txtNumber=&pageIndex=1",
                 "strength": "혼자 집중해서 탐구하는 데 강한 성격이에요.",
                 "improve": "다른 사람과 아이디어를 나누는 연습이 필요해요."
