@@ -285,7 +285,7 @@ career_recommendations = {
                 "desc": "새롭고 유용한 발명품을 만들어내요.",
                 "prep": "1. 불편한 점을 찾아 해결 방법을 상상해보세요.\n2. 스케치북에 아이디어를 그리고 설명해보세요.\n3. 과학 동아리나 발명대회에 참가해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121901.jpg",
-                "video": "https://www.youtube.com/shorts/Pz1kG_0mMDk",  # 예시: 발명가 관련 영상
+                "video": "https://www.youtube.com/watch?v=dSMoAT3k0Ew",  # 예시: 발명가 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=1433",
                 "strength": "호기심이 많고 창의력이 뛰어난 성격이에요.",
                 "improve": "실행에 옮기기 위해 계획 세우는 연습이 필요해요."
@@ -295,8 +295,8 @@ career_recommendations = {
                 "desc": "새로운 사업 아이디어로 회사를 만들어 운영해요.",
                 "prep": "1. 주변의 문제를 해결할 아이디어를 적어보세요.\n2. 친구들과 창업 놀이를 해보세요.\n3. 다양한 직업을 조사해보며 창업 아이템을 떠올려보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121400.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109054&listT=2",  # 예시: 벤처 기업가 관련 영상
-                "link": "https://www.career.go.kr/cloud/w/job/view?seq=238",
+                "video": "https://www.youtube.com/watch?v=lVGLHRIIRyI",  # 예시: 벤처 기업가 관련 영상
+                "link": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109001&listT=2",
                 "strength": "말을 잘하고 도전적인 성격에 잘 맞아요.",
                 "improve": "팀원들과 협력하고 꾸준히 실행하는 자세가 필요해요."
             }
