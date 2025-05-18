@@ -158,9 +158,7 @@ career_recommendations = {
             {
                 "name": "아동 문학 작가",
                 "desc": "아이들을 위한 동화나 소설을 써요.",
-                "prep": "1. 다양한 동화를 읽고 감상문을 써보세요.
-2. 동화책을 따라 그리거나 줄거리를 새롭게 써보세요.
-3. 상상 속 이야기를 일기장에 적어보세요.",
+                "prep": "1. 다양한 동화를 읽고 감상문을 써보세요. \n2. 동화책을 따라 그리거나 줄거리를 새롭게 써보세요.\n3. 상상 속 이야기를 일기장에 적어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112300.jpg",
                 "video": "https://www.youtube.com/watch?v=BhRVD-RCZTg",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112300",
@@ -170,9 +168,7 @@ career_recommendations = {
             {
                 "name": "심리상담사",
                 "desc": "사람의 마음을 이해하고 도와주는 일을 해요.",
-                "prep": "1. 친구나 가족 이야기를 공감하며 들어보세요.
-2. 감정 표현 연습을 일기로 해보세요.
-3. 사람의 마음에 관한 책을 읽어보세요.",
+                "prep": "1. 친구나 가족 이야기를 공감하며 들어보세요.\n2. 감정 표현 연습을 일기로 해보세요.\n3. 사람의 마음에 관한 책을 읽어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112900.jpg",
                 "video": "https://www.youtube.com/watch?v=8sQHEw5QIfY",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112900",
@@ -187,9 +183,7 @@ career_recommendations = {
             {
                 "name": "발명가",
                 "desc": "새로운 아이디어로 세상에 없는 물건을 만들어요.",
-                "prep": "1. 생활 속 불편한 점을 관찰해보세요.
-2. 직접 만들 수 있는 아이디어를 스케치해보세요.
-3. 창의력 대회나 과학탐구 활동에 참여해보세요.",
+                "prep": "1. 생활 속 불편한 점을 관찰해보세요.\n2. 직접 만들 수 있는 아이디어를 스케치해보세요.\n3. 창의력 대회나 과학탐구 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121901.jpg",
                 "video": "https://www.youtube.com/watch?v=0vWtvK7Cw9Y",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=121901",
@@ -199,9 +193,7 @@ career_recommendations = {
             {
                 "name": "빅데이터 분석가",
                 "desc": "많은 정보를 모아 분석하고 정리해요.",
-                "prep": "1. 차트와 그래프를 읽는 연습을 해보세요.
-2. 간단한 엑셀이나 데이터 정리 활동을 해보세요.
-3. 뉴스에서 통계자료를 관찰해보세요.",
+                "prep": "1. 차트와 그래프를 읽는 연습을 해보세요.\n2. 간단한 엑셀이나 데이터 정리 활동을 해보세요.\n3. 뉴스에서 통계자료를 관찰해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/122400.jpg",
                 "video": "https://www.youtube.com/watch?v=HcP1tTev5Ao",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=122400",
@@ -316,9 +308,7 @@ career_recommendations = {
             {
                 "name": "군인",
                 "desc": "나라를 지키기 위해 훈련하고 작전을 수행해요.",
-                "prep": "1. 체력을 기르기 위해 꾸준히 운동해보세요.
-2. 규칙적인 생활 습관을 들여보세요.
-3. 리더십 활동을 통해 팀워크를 배워보세요.",
+                "prep": "1. 체력을 기르기 위해 꾸준히 운동해보세요.\n2. 규칙적인 생활 습관을 들여보세요.\n3. 리더십 활동을 통해 팀워크를 배워보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/111200.jpg",
                 "video": "https://www.youtube.com/watch?v=zEtm9K4DREc",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=111200",
@@ -328,9 +318,7 @@ career_recommendations = {
             {
                 "name": "공무원",
                 "desc": "국가와 사회를 위해 행정 업무를 해요.",
-                "prep": "1. 사회나 역사 공부에 흥미를 가져보세요.
-2. 뉴스와 신문을 꾸준히 읽어보세요.
-3. 행정 체험이나 모의 토론 활동에 참여해보세요.",
+                "prep": "1. 사회나 역사 공부에 흥미를 가져보세요.\n2. 뉴스와 신문을 꾸준히 읽어보세요.\n3. 행정 체험이나 모의 토론 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/111100.jpg",
                 "video": "https://www.youtube.com/watch?v=oxevFA5bwLg",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=111100",
@@ -345,9 +333,7 @@ career_recommendations = {
             {
                 "name": "초등학교 교사",
                 "desc": "어린이들에게 지식과 인성을 가르쳐요.",
-                "prep": "1. 책을 많이 읽고 독서록을 써보세요.
-2. 친구를 도와주거나 발표 활동을 해보세요.
-3. 봉사활동을 통해 배려심을 길러보세요.",
+                "prep": "1. 책을 많이 읽고 독서록을 써보세요.\n2. 친구를 도와주거나 발표 활동을 해보세요.\n3. 봉사활동을 통해 배려심을 길러보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132100.jpg",
                 "video": "https://www.youtube.com/watch?v=KoVw_jhQfVc",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=132100",
@@ -357,9 +343,7 @@ career_recommendations = {
             {
                 "name": "간호사",
                 "desc": "환자의 건강을 돌보는 일을 해요.",
-                "prep": "1. 생물이나 건강 관련 책을 읽어보세요.
-2. 응급처치법을 배워보고 실습해보세요.
-3. 병원 체험 활동에 참여해보세요.",
+                "prep": "1. 생물이나 건강 관련 책을 읽어보세요.\n2. 응급처치법을 배워보고 실습해보세요.\n3. 병원 체험 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112100.jpg",
                 "video": "https://www.youtube.com/watch?v=MzJUnSxtdFc",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112100",
@@ -374,9 +358,7 @@ career_recommendations = {
             {
                 "name": "진로상담사",
                 "desc": "학생이나 성인의 진로를 함께 고민하고 조언해줘요.",
-                "prep": "1. 다양한 직업을 조사해보고 정리해보세요.
-2. 친구의 고민을 들어주고 조언을 해보세요.
-3. 상담 기술에 대한 책을 읽어보세요.",
+                "prep": "1. 다양한 직업을 조사해보고 정리해보세요.\n2. 친구의 고민을 들어주고 조언을 해보세요.\n3. 상담 기술에 대한 책을 읽어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112900.jpg",
                 "video": "https://www.youtube.com/watch?v=8sQHEw5QIfY",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=112900",
@@ -386,9 +368,7 @@ career_recommendations = {
             {
                 "name": "교사",
                 "desc": "학생을 가르치고 함께 성장하는 직업이에요.",
-                "prep": "1. 친구나 동생에게 배운 내용을 설명해보세요.
-2. 글쓰기와 말하기 연습을 꾸준히 해보세요.
-3. 다양한 교육 영상이나 수업 영상을 시청해보세요.",
+                "prep": "1. 친구나 동생에게 배운 내용을 설명해보세요.\n2. 글쓰기와 말하기 연습을 꾸준히 해보세요.\n3. 다양한 교육 영상이나 수업 영상을 시청해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132100.jpg",
                 "video": "https://www.youtube.com/watch?v=KoVw_jhQfVc",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=132100",
@@ -403,9 +383,7 @@ career_recommendations = {
             {
                 "name": "CEO(대표이사)",
                 "desc": "회사를 이끄는 총 책임자로, 계획을 세우고 팀을 운영해요.",
-                "prep": "1. 창업 이야기를 담은 책이나 영상을 찾아보세요.
-2. 친구들과 함께 모의 회사 만들기를 해보세요.
-3. 문제 해결 게임이나 전략 보드게임을 해보세요.",
+                "prep": "1. 창업 이야기를 담은 책이나 영상을 찾아보세요.\n2. 친구들과 함께 모의 회사 만들기를 해보세요.\n3. 문제 해결 게임이나 전략 보드게임을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121400.jpg",
                 "video": "https://www.youtube.com/watch?v=gt8YbU7Nuhw",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=121400",
@@ -415,9 +393,7 @@ career_recommendations = {
             {
                 "name": "변호사",
                 "desc": "법을 이용해 사람들의 문제를 해결해주는 일을 해요.",
-                "prep": "1. 뉴스에서 법 관련 사건을 찾아보고 분석해보세요.
-2. 토론 활동에 참여해 자신의 의견을 표현해보세요.
-3. 논리적인 글쓰기 연습을 해보세요.",
+                "prep": "1. 뉴스에서 법 관련 사건을 찾아보고 분석해보세요.\n2. 토론 활동에 참여해 자신의 의견을 표현해보세요.\n3. 논리적인 글쓰기 연습을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/111300.jpg",
                 "video": "https://www.youtube.com/watch?v=ruIzI2YWkkM",
                 "link": "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=111300",
