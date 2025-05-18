@@ -220,7 +220,7 @@ career_recommendations = {
                 "desc": "운동을 통해 실력을 겨루고 대회에 나가요.",
                 "prep": "1. 좋아하는 운동을 정해서 꾸준히 연습해보세요.\n2. 스포츠 경기나 시합을 관찰해보세요.\n3. 팀워크를 기르는 연습도 중요해요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/134100.jpg",
-                "video": "https://www.youtube.com/shorts/wLSKYm23XAQ",  # 예시: 운동선수 관련 영상
+                "video": "https://www.youtube.com/watch?v=sAjzKV3YTj0",  # 예시: 운동선수 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=336",
                 "strength": "에너지가 넘치고 활동적인 성격에 잘 맞아요.",
                 "improve": "장기적인 목표를 세우고 인내하는 연습도 필요해요."
