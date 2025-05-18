@@ -195,7 +195,7 @@ career_recommendations = {
                 "desc": "많은 정보를 모아 분석하고 정리해요.",
                 "prep": "1. 차트와 그래프를 읽는 연습을 해보세요.\n2. 간단한 엑셀이나 데이터 정리 활동을 해보세요.\n3. 뉴스에서 통계자료를 관찰해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/122400.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=116168&listT=1",  # 예시: 빅데이터 분석가 관련 영상
+                "video": "https://www.youtube.com/watch?v=ehQJcDa0sjU",  # 예시: 빅데이터 분석가 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=10032",
                 "strength": "논리적으로 생각하고 문제를 해결하는 데 능해요.",
                 "improve": "긴 시간 집중하는 습관을 들이는 것이 중요해요."
