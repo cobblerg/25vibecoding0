@@ -45,7 +45,7 @@ career_recommendations = {
                 "desc": "어린이들을 가르치고 성장하도록 도와줘요.",
                 "prep": "1. 발표와 글쓰기 능력을 키워요.\n2. 어린이와 잘 어울리는 방법을 익혀요.\n3. 책을 읽고 내용을 쉽게 설명하는 연습을 해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/132100.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=117911&listT=1",  # 예시: 초등학교 교사 관련 영상
+                "video": "https://www.youtube.com/watch?v=fI6XiL1GyoY",  # 예시: 초등학교 교사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=410",
                 "strength": "성실하고 책임감 있는 성격에 잘 맞아요.",
                 "improve": "자신의 생각을 명확하게 표현하는 연습이 필요해요."
