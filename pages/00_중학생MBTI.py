@@ -101,7 +101,7 @@ career_recommendations = {
                 "improve": "팀과 함께 일하는 연습을 조금씩 해보세요."
             }
         ]
-    }
+    },
     "ISTP": {
         "summary": "논리적이고 도구나 기계 다루는 걸 좋아해요.",
         "jobs": [
