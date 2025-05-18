@@ -185,7 +185,7 @@ career_recommendations = {
                 "desc": "새로운 아이디어로 세상에 없는 물건을 만들어요.",
                 "prep": "1. 생활 속 불편한 점을 관찰해보세요.\n2. 직접 만들 수 있는 아이디어를 스케치해보세요.\n3. 창의력 대회나 과학탐구 활동에 참여해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/121901.jpg",
-                "video": "https://www.youtube.com/watch?v=8c92sGfxs6c",  # 예시: 발명가 관련 영상
+                "video": "https://www.youtube.com/watch?v=dSMoAT3k0Ew",  # 예시: 발명가 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=1433",
                 "strength": "새롭고 창의적인 생각을 잘 떠올리는 성격이에요.",
                 "improve": "아이디어를 실제로 만들어보는 실천력이 필요해요."
