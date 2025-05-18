@@ -60,7 +60,7 @@ career_recommendations = {
                 "desc": "사람들의 고민을 듣고 도와주는 일을 해요.",
                 "prep": "1. 친구 이야기를 잘 들어주는 습관을 가져요.\n2. 감정을 글로 정리해보며 표현해보세요.\n3. 사람의 심리에 대한 책을 읽어보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112900.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=109027&listT=1",  # 예시: 상담사 관련 영상
+                "video": "https://www.youtube.com/watch?v=xWNj4lykY5w",  # 예시: 상담사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=380",
                 "strength": "남을 깊이 이해하려는 마음이 있어서 잘 어울려요.",
                 "improve": "처음 보는 사람과도 자연스럽게 대화하는 연습이 필요해요."
@@ -70,7 +70,7 @@ career_recommendations = {
                 "desc": "이야기나 감정을 글로 표현하는 일을 해요.",
                 "prep": "1. 매일 일기를 쓰며 생각을 정리해요.\n2. 다양한 책을 읽고 감상을 적어보세요.\n3. 글쓰기 대회나 블로그에 글을 써보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112300.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105721&listT=1",  # 예시: 작가 관련 영상
+                "video": "https://www.youtube.com/watch?v=vHQ4BWZGPqY",  # 예시: 작가 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=260",
                 "strength": "상상력과 공감 능력이 뛰어나서 글을 잘 쓸 수 있어요.",
                 "improve": "비판적인 피드백을 잘 받아들이는 연습이 필요해요."
