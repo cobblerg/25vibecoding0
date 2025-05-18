@@ -35,7 +35,7 @@ career_recommendations = {
                 "desc": "환자들을 정성껏 돌보는 일을 해요.",
                 "prep": "1. 생물 과학 과목을 재미있게 공부해요.\n2. 친구나 가족을 도와주는 경험을 쌓아보세요.\n3. 응급처치에 대해 간단히 알아보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/112100.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105861&listT=1",  # 예시: 간호사 관련 영상
+                "video": "https://www.youtube.com/watch?v=6pJWvkk3C4o",  # 예시: 간호사 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=354",
                 "strength": "배려심이 많고 섬세한 성격에 잘 맞아요.",
                 "improve": "긴장 상황에서 침착하게 대응하는 연습이 필요해요."
