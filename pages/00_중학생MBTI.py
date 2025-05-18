@@ -270,7 +270,7 @@ career_recommendations = {
                 "desc": "더 나은 세상을 만들기 위해 활동해요.",
                 "prep": "1. 사회 문제에 관심을 가져보세요.\n2. 뉴스나 다큐멘터리를 보며 생각을 정리해보세요.\n3. 글이나 발표로 자신의 생각을 표현해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/123100.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=10687&listT=2",  # 예시: 사회운동가 관련 영상
+                "video": "https://www.youtube.com/watch?v=LZVjB4Nk0AY",  # 예시: 사회운동가 관련 영상
                 "link": "https://www.career.go.kr/cloud/w/job/view?seq=934",
                 "strength": "열정과 긍정적인 에너지가 넘치는 성격이에요.",
                 "improve": "현실적인 계획을 세우고 꾸준히 실천하는 것이 필요해요."
