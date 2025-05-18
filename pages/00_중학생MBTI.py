@@ -110,7 +110,7 @@ career_recommendations = {
                 "desc": "자동차나 기계 장비를 수리하고 점검해요.",
                 "prep": "1. 자전거나 장난감을 분해하고 조립해보세요.\n2. 공구 사용법을 안전하게 배워보세요.\n3. 기술 관련 영상이나 DIY 키트를 활용해보세요.",
                 "image": "https://cdn.career.go.kr/images/upload/job/133204.jpg",
-                "video": "https://www.career.go.kr/cloud/w/interview/jobView?seq=105850&listT=1",  # 예시: 기계 정비사 관련 영상
+                "video": "https://www.youtube.com/watch?v=FAOrdZ3N2Qw",  # 예시: 기계 정비사 관련 영상
                 "link": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=7531&jobSeq=6",
                 "strength": "실용적이고 조용히 문제를 해결하는 데 능숙해요.",
                 "improve": "여럿이 함께 일할 때 의사소통하는 연습이 필요해요."
