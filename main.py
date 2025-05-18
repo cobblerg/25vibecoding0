@@ -122,7 +122,7 @@ if selected:
         if st.button(job, key=job):  # 클릭 시
             description = job_descriptions.get(job, "상세 설명이 준비 중입니다.")
             st.markdown(f"**{job}**: {description}")
-    st.balloons()  # 풍선 효과🎈
+    # st.balloons()  # 풍선 효과🎈
 
 # 푸터
 st.markdown("---")
